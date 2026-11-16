@@ -84,9 +84,3 @@ Use only with permission. For disclosure, report validated findings privately to
 - IETF RFC 6762, *Multicast DNS*.
 - Scapy documentation: packet capture reading and protocol layers.
 
-## Team work split
-
-See [TEAM_TASKS.md](TEAM_TASKS.md) for the four-person work split and deliverables.
-"# TunnelSniff-IKB31603" 
-"# TunnelSniff-IKB31603" 
-"# TunnelSniff-IKB31603" 
