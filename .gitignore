@@ -1,0 +1,10 @@
+output/
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.pcap
+*.pcapng
