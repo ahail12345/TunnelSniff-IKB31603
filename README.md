@@ -114,8 +114,6 @@ Use only with permission. For disclosure, report validated findings privately to
 - IETF RFC 6762, *Multicast DNS*.
 - Scapy documentation: packet capture reading and protocol layers.
 
-## Demonstration Screenshots
 
-Screenshots will be added after the project demonstration.
 
 <!-- Add screenshot captions and image links here when available. -->
