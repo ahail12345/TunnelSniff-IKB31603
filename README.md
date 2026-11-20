@@ -119,7 +119,3 @@ Use only with permission. For disclosure, report validated findings privately to
 Screenshots will be added after the project demonstration.
 
 <!-- Add screenshot captions and image links here when available. -->
-
-## Team work split
-
-See [TEAM_TASKS.md](TEAM_TASKS.md) for the four-person work split and deliverables.
