@@ -6,10 +6,6 @@ TunnelSniff is an offline Python tool that scores **possible** tunneling indicat
 
 TunnelSniff helps cybersecurity students and defenders review packet captures for traffic patterns that may indicate DNS, HTTP/HTTPS, or mDNS tunneling. It uses explainable heuristic rules and produces a local JSON report for human review. A score is an indicator, not proof of malicious activity.
 
-## Video Demonstration
-
-YouTube demonstration: [Add the project demonstration video](https://youtu.be/REPLACE_WITH_VIDEO_ID)
-
 ## Intended Users
 
 - Cybersecurity students learning packet analysis and network threat detection.
