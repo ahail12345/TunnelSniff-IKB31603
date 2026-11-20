@@ -19,9 +19,9 @@ This project was developed by Group 4, section L01-B05, for the IKB31603 Ethical
 | No. | Name | Student ID | Contribution |
 |---|---|---|---|
 | 1 | Ahmad Zahin Hail Bin Kusai | 52215251649 | CLI, authorization and scope handling, and integration. |
-| 2 | Muhammad Daniel Bin Daud | 52215225164 | Packet parsing and protocol record extraction. |
-| 3 | Muhammad Amirun Mustaqim Bin Mohd Affendi | 52215125801 | Scoring and DNS/mDNS detection rules. |
-| 4 | Wan Harith Fahmi Bin Wan Mohd Nur Muzaaliff | 52215125705 | HTTP/HTTPS rules, reporting, documentation, and demo materials. |
+| 2 | Muhammad Daniel Bin Daud | 52215225164 | HTTP/HTTPS rules, reporting, documentation, and demo materials. |
+| 3 | Muhammad Amirun Mustaqim Bin Mohd Affendi | 52215125801 | Packet parsing and protocol record extraction. |
+| 4 | Wan Harith Fahmi Bin Wan Mohd Nur Muzaaliff | 52215125705 | Scoring and DNS/mDNS detection rules. |
 
 All members contribute to integration, review, and project evaluation.
 
